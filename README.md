@@ -28,5 +28,5 @@ To install the tools, follow these steps:
     > **Note:** Make sure the `instalacao-req-bottest.sh` script has execution permissions. If necessary, you can change the permissions with the command `chmod +x instalacao-req-bottest.sh`.
 
 
-
+Made with ❤️ by lupedsagaces
 
