@@ -1,6 +1,6 @@
 # BotRequire
 
-This repository contains a script that installs various tools required for a hacker python bot developed by [OFJAAH](https://github.com/KingOfBugbounty/KingOfBugBountyTips/blob/master/bottest.py) It's focused on reconnaissance. It automates the installation of all dependencies and simplifies the setup of the development environment.
+This repository contains a script that installs various tools required for a hacker python bot developed by [OFJAAH](https://github.com/KingOfBugbounty/KingOfBugBountyTips/blob/master/bottest.py). It's focused on reconnaissance. It automates the installation of all dependencies and simplifies the setup of the development environment.
 
 
 ## Installation
