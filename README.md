@@ -1,6 +1,6 @@
 # BotRequire
 
-This repository contains a script that installs various tools required for a hacker python bot. It automates the installation of all dependencies and simplifies the setup of the development environment.
+This repository contains a script that installs various tools required for a hacker python bot developed by [OFJAAH](https://github.com/KingOfBugbounty/KingOfBugBountyTips/blob/master/bottest.py) It's based for recon. It automates the installation of all dependencies and simplifies the setup of the development environment.
 
 
 ## Installation
@@ -22,11 +22,11 @@ To install the tools, follow these steps:
 3. Run the installation script:
 
     ```bash
-    ./install_tools.sh
+    ./instalacao-req-bottest.sh
     ```
 
-    > **Note:** Make sure the `install_tools.sh` script has execution permissions. If necessary, you can change the permissions with the command `chmod +x install_tools.sh`.
+    > **Note:** Make sure the `instalacao-req-bottest.sh` script has execution permissions. If necessary, you can change the permissions with the command `chmod +x instalacao-req-bottest.sh`.
 
-## Usage
+
 
 
