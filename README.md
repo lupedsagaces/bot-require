@@ -1,18 +1,7 @@
-# Bot Tools Installer
+# BotRequire
 
 This repository contains a script that installs various tools required for a hacker python bot. It automates the installation of all dependencies and simplifies the setup of the development environment.
 
-
-## Installed Tools
-
-The script installs the following tools:
-
-- `requests`: Library for making HTTP requests.
-- `beautifulsoup4`: Library for parsing HTML and XML documents.
-- `flask`: Microframework for web applications in Python.
-- `pytest`: Testing framework for Python.
-- `numpy`: Library for scientific computing.
-- `pandas`: Library for data analysis.
 
 ## Installation
 
@@ -27,7 +16,7 @@ To install the tools, follow these steps:
 2. Navigate to the repository directory:
 
     ```bash
-    cd bot-tools-installer
+    cd bot-require
     ```
 
 3. Run the installation script:
